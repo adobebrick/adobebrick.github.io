@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lego Storage Solutions
-published: false
+published: true
 date: 2016-03-01
 categories: [building, storage]
 tags: [storage, lego]
