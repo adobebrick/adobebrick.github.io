@@ -9,18 +9,20 @@ tags: [storage, lego]
 
 Today, we’ll be talking about storage solutions for Legos.  Figuring out the best way to store your bricks can be challenging.  It’s easy to overbuy and purchase something that’s too big, or to buy something that can’t grow with you.  Finding the best fit for your needs, present and ongoing, is what we’re looking at this week.
 
+<a href="http://s63.photobucket.com/user/anellas/media/20160216_163043.jpg.html" target="_blank"><img src="http://i63.photobucket.com/albums/h144/anellas/20160216_163043.jpg" border="0" alt=" photo 20160216_163043.jpg"/></a>
+
 When you’re getting ready to purchase storage for your bricks, there are two main questions you need to ask yourself first: who will be using the storage and how many pieces do you need to store.  If you’re buying no more than 500 pieces for younger children, odds are you can do with a single bin, which is the simplest way to store Legos.  You also want a bin with a lid that can be sealed into place to keep all the bricks together.
 
 <a href="http://s63.photobucket.com/user/anellas/media/small%20bin.jpg.html" target="_blank"><img src="http://i63.photobucket.com/albums/h144/anellas/small%20bin.jpg" border="0" alt="small bin photo small bin.jpg"/></a>
 
 Once your collection for the younger set grows, you may want to move to a larger bin.  
-If you’re looking at a single bin solution, you can probably get one in the same place you would purchase retail Legos, and a good bin should run no more than US$10.
+If you’re looking at a single bin solution, you can probably get one in the same place you would purchase retail Legos.
 
 <a href="http://s63.photobucket.com/user/anellas/media/larger%20bin.jpg.html" target="_blank"><img src="http://i63.photobucket.com/albums/h144/anellas/larger%20bin.jpg" border="0" alt="large bin photo larger bin.jpg"/></a>
 
 However, if you’re purchasing storage for an older child or an adult, you may want to look at something with multiple compartments.  Lego sets have lots of small parts and pieces, and keeping track of all of them can be difficult if they’re all in one large bin.  Also, a large bin isn’t ideal for quickly finding a specific part.  Having a compartmentalized storage system is much better in these situations.  If you’re looking for storage for around 500 – 1500 bricks, look at something with at least 20 compartments.  
 
-<a href="http://s63.photobucket.com/user/anellas/media/22%20unit%20storage.jpg.html" target="_blank"><img src="http://i63.photobucket.com/albums/h144/anellas/22%20unit%20storage.jpg" border="0" alt=" photo 22 unit storage.jpg"/></a>
+<a href="http://s63.photobucket.com/user/anellas/media/20160215_171917.jpg.html" target="_blank"><img src="http://i63.photobucket.com/albums/h144/anellas/20160215_171917.jpg" border="0" alt=" photo 20160215_171917.jpg"/></a>
 
 The storage unit above has 22 drawers of varying sizes and can be wall mounted.  Having different sizes of drawers can be very helpful, as you may have a large number of some pieces or a lot of larger bricks that won’t fit in a smaller drawer.  You may find that you need more than one of these multiple drawer bins, and the fact that they can be wall mounted also saves space.  These kinds of storage solutions can be added to easily, which is another plus. 
 
