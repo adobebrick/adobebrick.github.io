@@ -24,7 +24,7 @@ However, if you’re purchasing storage for an older child or an adult, you may 
 
 <a href="http://s63.photobucket.com/user/anellas/media/20160215_171917.jpg.html" target="_blank"><img src="http://i63.photobucket.com/albums/h144/anellas/20160215_171917.jpg" border="0" alt=" photo 20160215_171917.jpg"/></a>
 
-The storage unit above has 22 drawers of varying sizes and can be wall mounted.  Having different sizes of drawers can be very helpful, as you may have a large number of some pieces or a lot of larger bricks that won’t fit in a smaller drawer.  You may find that you need more than one of these multiple drawer bins, and the fact that they can be wall mounted also saves space.  These kinds of storage solutions can be added to easily, which is another plus. 
+The storage unit above has 30 drawers of varying sizes and can be wall mounted.  Having different sizes of drawers can be very helpful, as you may have a large number of some pieces or a lot of larger bricks that won’t fit in a smaller drawer.  You may find that you need more than one of these multiple drawer bins, and the fact that they can be wall mounted also saves space.  These kinds of storage solutions can be added to easily, which is another plus. 
 
 Once you move past 1500 bricks or you’re doing lots of building, you can continue to add to units such as the one above, or even augment it with larger units.  A cabinet like the one below is ideal for this, as all of the ‘drawers’ are themselves smaller storage units with multiple compartments, so you can still store those rare pieces as well as a larger volume of the more common pieces.  This cabinet also works well for those who are selling Legos.  
 
