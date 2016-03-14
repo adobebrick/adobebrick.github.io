@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Lego Games
-published: true
-date: 2016-03-14
+published: false
+date: 2016-03-15
 categories: [lego, games]
 tags: [lego, afol, games]
 ---
@@ -32,7 +32,7 @@ Some people have continued to mix gameplay with Legos.  There are groups that pl
 
 <a href="http://s63.photobucket.com/user/anellas/media/munchkin%20lego.jpg.html" target="_blank"><img src="http://i63.photobucket.com/albums/h144/anellas/munchkin%20lego.jpg" border="0" alt="Munchkin Meets Lego photo munchkin lego.jpg"/></a>
 
-To see other examples of Lego games we’ve pinned, surf on over to our [Lego games]( https://www.pinterest.com/adobebrick/lego-games/) board on [Pinterest]( https://www.pinterest.com/adobebrick/).  If you follow us on [Twitter]( https://twitter.com/AdobeBrick )you’ll see what we’re doing throughout the week.
+To see other examples of Lego games we’ve pinned, surf on over to our [Lego games]( https://www.pinterest.com/adobebrick/lego-games/) board on [Pinterest]( https://www.pinterest.com/adobebrick/).  If you follow us on [Twitter]( https://twitter.com/AdobeBrick ), you’ll see what we’re doing throughout the week.
 
 Thinking about picking up a few pieces to reconstruct one of these out-of-production games, or interested in parts for your own game?  Stop by our [BrickLink]( http://www.bricklink.com/store.asp?p=AdobeBrick) store!  
 
