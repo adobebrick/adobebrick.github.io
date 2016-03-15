@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lego Games
-published: false
+published: true
 date: 2016-03-15
 categories: [lego, games]
 tags: [lego, afol, games]
