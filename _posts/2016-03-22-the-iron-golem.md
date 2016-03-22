@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Review- The Iron Golem
+title: The Iron Golem
 published: true
 date: 2016-03-22
 categories: [lego, minecraft, review]
 tags: [lego, minecraft, review, alex, iron golem, zombie]
 ---
 
-Lego began producing minifigure-scaled Minecraft sets in 2014, and these have proved to be popular additions to the Lego catalog.  In March 2016, Lego released four new Minecraft sets.  We recently obtained one of these new releases, “The Iron Golem”, set number 21123-1.  “The Iron Golem” features Alex, the first official female Minecraft player skin.  This week, we’ll be reviewing “The Iron Golem”.
+Lego began producing minifigure-scaled Minecraft sets in 2014, and these have proved to be popular additions to the Lego catalog.  In March 2016, Lego released four new Minecraft sets.  We recently obtained one of these new releases, **The Iron Golem**, set number 21123-1.  **The Iron Golem** features Alex, the first official female Minecraft player skin.  This week, we’ll be reviewing **The Iron Golem**.
 
 <a href="http://s63.photobucket.com/user/anellas/media/IMG_4307.jpg.html" target="_blank"><img src="http://i63.photobucket.com/albums/h144/anellas/IMG_4307.jpg" border="0" alt="Box, set, and instructions photo IMG_4307.jpg"/></a>
 
@@ -19,7 +19,7 @@ This is a smaller set, with 208 pieces, and it’s easy to build fairly quickly.
 
 <a href="http://s63.photobucket.com/user/anellas/media/IMG_4300.jpg.html" target="_blank"><img src="http://i63.photobucket.com/albums/h144/anellas/IMG_4300.jpg" border="0" alt="The Iron Golem minifigs 1 photo IMG_4300.jpg"/></a>
 
-The scene is a fairly simple one as well: a zombie shows up and Alex uses a Jack O’Lantern to summon an Iron Golem to dispatch the zombie.  The Iron Golem is underneath one of the larger plates, and the use of hinges allows him to appear to come up out of the ground when spawned.  
+The scene is a fairly simple one as well: a zombie shows up and Alex uses a jack o’lantern to summon an Iron Golem to dispatch the zombie.  The Iron Golem is underneath one of the larger plates, and the use of hinges allows him to appear to come up out of the ground when spawned.  
 
 <a href="http://s63.photobucket.com/user/anellas/media/IMG_4302.jpg.html" target="_blank"><img src="http://i63.photobucket.com/albums/h144/anellas/IMG_4302.jpg" border="0" alt="hinged door photo IMG_4302.jpg"/></a>
 
