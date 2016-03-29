@@ -11,7 +11,7 @@ Taking pictures of your MOCs and minifigs can be fun, but it can also be challen
 
 <a href="http://s63.photobucket.com/user/anellas/media/st%20patrick%20and%20the%20easter%20bunny.jpg.html" target="_blank"><img src="http://i63.photobucket.com/albums/h144/anellas/st%20patrick%20and%20the%20easter%20bunny.jpg" border="0" alt=" photo st patrick and the easter bunny.jpg"/></a>
 
-#1**Natural Lighting**
+**Natural Lighting**
 
 We have found that using natural light, and not using a flash of any kind, results in great pictures.  Since Legos are naturally shiny, when the flash hits the Legos, it can create a harsh glare on your MOC or minifig and ruin the photo.  Natural light can be tricky, and you need to look at the direction the light is coming from and where it casts shadows.  
 
@@ -21,7 +21,7 @@ We prefer taking pictures either early in the morning or just before sundown.  P
 
 When weather is an issue and you’re stuck inside, you can still make use of natural light, provided it’s not too overcast or cloudy.  You just need a good window that gets plenty of sun.  Set up your minifigs or MOC and you’re good to go.
 
-#1**Depth of Field Technique**
+**Depth of Field Technique**
 
 Using the depth of field technique is another way to add dimension to your photos and draw people in.  When you make use of depth of field, the camera focuses on one small area- usually your minifig or part of your MOC you want to highlight- and everything else in the picture is out-of-focus and becomes fuzzy and indistinct.  This technique draws the eye to the subject of your photo- the one thing that’s in focus.  
 
