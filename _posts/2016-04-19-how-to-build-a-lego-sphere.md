@@ -39,6 +39,8 @@ The larger sphere we found on [Instuctables]( http://www.instructables.com/id/Ho
 * 6 4x4 plates (part number 3031)
 * 8 1x4 bricks with knobs (part number 30414)
 
+<a href="http://s63.photobucket.com/user/anellas/media/IMG_4349.jpg.html" target="_blank"><img src="http://i63.photobucket.com/albums/h144/anellas/IMG_4349.jpg" border="0" alt=" photo IMG_4349.jpg"/></a>
+
 <a href="http://s63.photobucket.com/user/anellas/media/IMG_4354.jpg.html" target="_blank"><img src="http://i63.photobucket.com/albums/h144/anellas/IMG_4354.jpg" border="0" alt=" photo IMG_4354.jpg"/></a>
 
 While this is a more complicated build, it’s still pretty easy, and getting the sides together is still the tricky part.  However, we were pretty happy with the results.
