@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Build A Lego Sphere
-published: false
+published: true
 date: 2016-04-19
 categories: [building, how to, sphere]
 tags: [building, sphere]
@@ -17,11 +17,11 @@ As you may have noticed from the picture above, there’s more than one size sph
 
 The construction of this sphere is pretty straightforward.  Here are the parts you’ll need, as well as the build instructions.
 
-*6 2 x 2 plates (part number 3022)
-*24 1 x 4 plates (part number 3710)
-*24 2420 2 x 2 Corner plates (part number 2420)
-*24 Modified 1 x 2 with 1 Stud with Groove (Jumper) plates (part number 3794b)
-*8 Modified 1 x 1 with Studs on Four Sides (part number 4733)
+* 6 2 x 2 plates (part number 3022)
+* 24 1 x 4 plates (part number 3710)
+* 24 2420 2 x 2 Corner plates (part number 2420)
+* 24 Modified 1 x 2 with 1 Stud with Groove (Jumper) plates (part number 3794b)
+* 8 Modified 1 x 1 with Studs on Four Sides (part number 4733)
 
 The tricky part is connecting the sides, which is done with the modified 1 x 1 bricks. You need a firm, yet gentle touch, and we have found it’s best to ease the sides together.  Apply too much force and the sides that are already attached fall off of the modified 1 x 1 brick.  It’s not hard to do, just tedious.  Expect to spend about half of your time connecting the sides.  
 
@@ -31,13 +31,13 @@ The tricky part is connecting the sides, which is done with the modified 1 x 1 b
 
 The larger sphere we found on [Instuctables]( http://www.instructables.com/id/How-to-Make-a-Lego-Ball/?ALLSTEPS).  You’ll need the following bricks to make this build:
 
-*24 1x1 plates (part number 3024)
-*12 1x4 plates (part number 3710)
-*18 2x2 plates (part number 3022)
-*30 2x6 plates (part number 3795)
-*6 2x8 plates (part number 3034)
-*6 4x4 plates (part number 3031)
-*8 1x4 bricks with knobs (part number 30414)
+* 24 1x1 plates (part number 3024)
+* 12 1x4 plates (part number 3710)
+* 18 2x2 plates (part number 3022)
+* 30 2x6 plates (part number 3795)
+* 6 2x8 plates (part number 3034)
+* 6 4x4 plates (part number 3031)
+* 8 1x4 bricks with knobs (part number 30414)
 
 <a href="http://s63.photobucket.com/user/anellas/media/IMG_4354.jpg.html" target="_blank"><img src="http://i63.photobucket.com/albums/h144/anellas/IMG_4354.jpg" border="0" alt=" photo IMG_4354.jpg"/></a>
 
